@@ -6,11 +6,14 @@
    * Using For loop.
    * Using Conditional Statement.
    * If the value of a property in str1 is match the value of the corresponding property in str2, the objects are same.
-   * Finally the Output is 
+   * Finally the Output is
+     
+   ![01](https://github.com/Balakrishnan-10/XMLHTTPRequest-JS-Day-03/assets/157093363/a6f921e7-4283-4bb5-b85a-b364a3780fef)
+   
+   ![02](https://github.com/Balakrishnan-10/XMLHTTPRequest-JS-Day-03/assets/157093363/11a0d7a4-97a4-41fc-b261-48a9f9b335b0)
 
-
-## XMLHTTP Request Method:
-
+## XMLHTTP Request Method:Rest Countries.
+### Console the Rest Countries Details of Country_Name,Region,Sub_region,Population,Flags.
 * **Step-1:**
      
      * Create a XHR Object
@@ -48,5 +51,4 @@
          * function(){
 
          }
-      * Response:
-               
+     
